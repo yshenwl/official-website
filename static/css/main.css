@@ -681,6 +681,10 @@ video {
   height: 2rem;
 }
 
+.h-\[40rem\] {
+  height: 40rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -728,6 +732,10 @@ video {
 
 .items-center {
   align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .justify-between {
@@ -793,12 +801,21 @@ video {
   padding: 0.5rem;
 }
 
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
 .pl-3 {
   padding-left: 0.75rem;
 }
 
 .pl-12 {
   padding-left: 3rem;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .text-lg {
