@@ -1,0 +1,65 @@
+/* body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+} */
+
+
+
+/* header {
+  overflow: hidden;
+} */
+/* 
+nav {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+} */
+/* 
+#logo {
+  flex: 1.5;
+}
+
+.menu {
+  flex: 7;
+}
+
+.quick-buttons {
+  flex: 1.5;
+} */
+
+/* .menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: large;
+} */
+
+/* .menu li {
+  margin: 10px 20px;
+} */
+
+/* .menu a {
+  text-decoration: none;
+  color: black;
+} */
+
+.search-icon {
+  display: inline-block;
+  background-image: url('./../svg/aliyun_search.svg');
+  background-size: cover;
+}
+
+.i18n-icon {
+  display: inline-block;
+  background-image: url('./../svg/international.svg');
+  background-size: cover;
+}
+
+.login-icon {
+  display: inline-block;
+  background-image: url('./../svg/sub_account.svg');
+  background-size: cover;
+}

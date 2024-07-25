@@ -1,0 +1,15 @@
+{
+  "name": "official-website",
+  "version": "1.0.0",
+  "description": "This is YanAn company official website project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./static/css/tailwind.css -o ./static/css/main.css --watch"
+  },
+  "author": "Ciafina",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
